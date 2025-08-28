@@ -3,3 +3,7 @@
 
 # Ne pas ignorer les fichiers à la racine
 !*.*
+
+# Ne rien ignorer à la racine
+!*.html
+!*.css
