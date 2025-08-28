@@ -1,0 +1,155 @@
+body{
+    background-color : rgb(233, 177, 233);
+}
+
+h1 {
+    font-family : Arial,;
+    font-size : 400%;
+    font-weight : bold;
+    color : rgb(185, 55, 208);
+    text-align : center;
+}
+
+h2 {
+    font-family : Arial;
+    font-size : 250%;
+    color : rgb(95, 29, 106);
+    text-align: center;
+}
+
+.intro {
+    font-family : Arial;
+    text-align : center;
+}
+
+p{
+    font-family : Arial;
+    font-size : 150%;
+    text-align: center;
+    font-weight : bold;
+}
+
+img {
+  width: 300px;
+  height: auto; 
+  
+}
+
+.conteneur1 {
+    display: flex;
+    justify-content: center; 
+}
+
+.conteneur2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.image-centree {
+    text-align: center;
+}
+
+.squat {
+    display: flex;
+    justify-content: space-around;
+}
+
+.fentes {
+    display: flex;
+    justify-content: space-around;
+}
+
+.hip {
+    display: flex;
+    justify-content: space-around;
+}
+
+.kickback {
+    display: flex;
+    justify-content: space-around;
+}
+
+.hacksquat {
+    display: flex;
+    justify-content: space-around;
+}
+
+.rdl {
+    display: flex;
+    justify-content: space-around;
+}
+
+.legextension {
+    display: flex;
+    justify-content: space-around;
+}
+
+.legcurl{
+    display: flex;
+    justify-content: space-around;
+}
+
+.bench {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pullup {
+    display: flex;
+    justify-content: space-around;
+}
+
+.dips {
+    display: flex;
+    justify-content: space-around;
+}
+
+.biceps {
+    display: flex;
+    justify-content: space-around;
+}
+
+.benchbarre {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pulldown {
+    display: flex;
+    justify-content: space-around;
+}
+
+.triceps {
+    display: flex;
+    justify-content: space-around;
+}
+
+.bicepscurl {
+    display: flex;
+    justify-content: space-around;
+}
+
+.eau {
+    display: flex;
+    justify-content: space-around;
+}
+
+.protein {
+    display: flex;
+    justify-content: space-around;
+}
+
+.marcher {
+    display: flex;
+    justify-content: space-around;
+}
+
+.lit {
+    display: flex;
+    justify-content: space-around;
+}
+
+.food {
+    display: flex;
+    justify-content: space-around;
+}
