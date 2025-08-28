@@ -1,0 +1,14 @@
+# Ignorer tous les fichiers par défaut
+*
+
+# Sauf le fichier .gitignore lui-même
+!.gitignore
+
+# Garder uniquement les html et css qui nous intéressent 
+!.Advices.html
+!.Lower body 1.html
+!.Lower body 2.html
+!.Upper body 1.html
+!.Upper body2.html
+!.main.html
+!.style.css
